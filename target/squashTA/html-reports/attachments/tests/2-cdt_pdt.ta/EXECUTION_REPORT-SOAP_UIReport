@@ -1,0 +1,12 @@
+TestCase 'Ajouter un pas de test' of TestSuite 'Suite_de_tests-CdT_et_PdT' : FAILED
+
+--> Step 'REST Request' : FAILED :
+- [Valid HTTP Status Codes 201] Response status code:200 is not in acceptable list of status codes
+- [Contains action] Missing token ["action" : "<p>creer un pas de test</p>"] in Response
+- [Contains r�sultat attendu] Missing token ["expected_result" : "<p>je vois mon pas de
+test</p>"] in Response
+
+
+--------------------------------------------
+
+

@@ -1,0 +1,8 @@
+SETUP :
+
+
+TEST :
+# EXECUTE_SOAPUI salut.xml WITH TEST_SUITE Suite_de_tests_Projet AND TEST_CASE Creer un projet
+# EXECUTE_SOAPUI salut.xml WITH TEST_SUITE Suite_de_tests_Projet AND TEST_CASE Afficher tous les projets
+# EXECUTE_SOAPUI salut.xml WITH TEST_SUITE Suite_de_tests_Projet AND TEST_CASE Afficher un projet
+

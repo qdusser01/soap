@@ -1,0 +1,1 @@
+[[ATTACHMENT--|C:\Users\formation\Documents\SquashTA-1.10.0-RELEASE-workspace\soapUI\target\squashTA\surefire-reports\attachments\tests\tests\2-cdt_pdt.ta\EXECUTION_REPORT-SOAP_UIReport]]

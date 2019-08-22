@@ -1,0 +1,11 @@
+SETUP :
+
+
+TEST :
+# EXECUTE_SOAPUI salut.xml WITH TEST_SUITE Suite_de_tests-CdT_et_PdT AND TEST_CASE Afficher tous les cas de test
+# EXECUTE_SOAPUI salut.xml WITH TEST_SUITE Suite_de_tests-CdT_et_PdT AND TEST_CASE Ajouter un pas de test
+# EXECUTE_SOAPUI salut.xml WITH TEST_SUITE Suite_de_tests-CdT_et_PdT AND TEST_CASE Modifier un pas de test
+# EXECUTE_SOAPUI salut.xml WITH TEST_SUITE Suite_de_tests-CdT_et_PdT AND TEST_CASE Afficher les pas-de-tests d'un cas-de-test
+# EXECUTE_SOAPUI salut.xml WITH TEST_SUITE Suite_de_tests-CdT_et_PdT AND TEST_CASE Supprimer un pas de test
+
+
